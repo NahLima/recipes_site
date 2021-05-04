@@ -79,7 +79,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'db_recipes',
         'USER': 'postgres',
-        'PASSWORD': 'SoyRica2020',
+        'PASSWORD': 'colocarSuaSenha',
         'HOST': 'localhost'
     }
 }
